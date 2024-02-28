@@ -37,9 +37,3 @@
   <img src="https://streak-stats.demolab.com?user=ayush-may&locale=en&mode=weekly&theme=dracula&hide_border=true" height="200" alt="streak graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayush-may&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=nord&hide_border=true" height="250" alt="languages graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/ayush-may/ayush-may/output/snake.svg" alt="Snake animation" />
-
-###
